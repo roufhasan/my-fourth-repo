@@ -14,3 +14,10 @@ img {
 p {
   margin: 1rem 0;
 }
+.btn {
+  margin-bottom: 2rem;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+}
